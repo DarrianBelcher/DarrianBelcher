@@ -1,5 +1,6 @@
 - Hello, my name is Darrian Belcher!
 - I'm an Information Technology student in college looking to expand my programming skills 
+- I'll store my work here, so feel free to check out some of my projects
 
 
 <!---
